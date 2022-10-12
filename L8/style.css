@@ -6,6 +6,7 @@
     background-color: lavenderblush;
     display: flex;
     justify-content: space-around;
+    margin-bottom: 10px;
 }
 
 .right-navigation {
@@ -26,7 +27,7 @@
 
 .card .heading {
     margin-bottom: 40px;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .heading,
@@ -36,7 +37,7 @@
 }
 
 .desc-block {
-    font-size: 20px;
+    font-size: 15x;
     margin-bottom: 35px;
 }
 
@@ -58,6 +59,7 @@
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
+    justify-content: center;
 }
 
 body {
@@ -65,7 +67,7 @@ body {
 }
 
 .card {
-    width: 405px;
+    width: 303px;
 }
 
 .picture img {
