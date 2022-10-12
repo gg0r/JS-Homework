@@ -1,0 +1,22 @@
+body {
+    background-color: cadetblue;
+}
+
+.navigation-list {
+    list-style-type: none;
+    width: 100px;
+    background-color: cornflowerblue;
+    padding: 0;
+}
+
+.navigation-list a {
+    text-decoration: none;
+}
+
+.navigation-list {
+    cursor: pointer;
+}
+
+.link.active {
+    border: 4px solid blue;
+}
